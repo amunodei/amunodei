@@ -28,7 +28,7 @@ Let’s connect and collaborate on making networking smarter and more resilient!
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="[https://google.com](https://github.com/amunodei/networkautomation1/tree/main)">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -96,4 +96,5 @@ Let’s connect and collaborate on making networking smarter and more resilient!
 
 ## Projects
 - bash Lab
+-  <a href="[https://google.com](https://github.com/amunodei/networkautomation1/tree/main)">Detection Lab</a>
 - Network  Automation Project
