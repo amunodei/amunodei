@@ -3,8 +3,6 @@
 # Hello, I'm Atkins Munodei
 <a href="www.linkedin.com/in/atkins-munodei-7a514a51"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Introduction]
-
 Iam a senior network engineer With over 9 years of experience in designing, implementing, and managing complex network infrastructures, I specialize in IP core networks, routing protocols (BGP, OSPF, MPLS), and network security. My expertise spans across large-scale enterprise networks and data centers, with a focus on reliability, security, and performance optimization.
 
 🌐 Skills & Interests:
@@ -16,7 +14,6 @@ Strong background in network security, including firewall configurations and IPS
 DevOps and Agile methodologies for infrastructure as code and CI/CD workflows
 
 ## Objective
-[Objective]
 
 I use GitHub to share scripts, automation tools, and configurations that support network monitoring, management, and security. Check out my repositories for network automation projects and IP network designs.
 
