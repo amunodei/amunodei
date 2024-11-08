@@ -3,7 +3,7 @@
 # Hello, I'm Atkins Munodei
 <a href="www.linkedin.com/in/atkins-munodei-7a514a51"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+[Introduction]
 
 Iam a senior network engineer With over 9 years of experience in designing, implementing, and managing complex network infrastructures, I specialize in IP core networks, routing protocols (BGP, OSPF, MPLS), and network security. My expertise spans across large-scale enterprise networks and data centers, with a focus on reliability, security, and performance optimization.
 
@@ -16,14 +16,13 @@ Strong background in network security, including firewall configurations and IPS
 DevOps and Agile methodologies for infrastructure as code and CI/CD workflows
 
 ## Objective
-[Provide Objective]
+[Objective]
 
 I use GitHub to share scripts, automation tools, and configurations that support network monitoring, management, and security. Check out my repositories for network automation projects and IP network designs.
 
 Let’s connect and collaborate on making networking smarter and more resilient!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -35,7 +34,6 @@ Let’s connect and collaborate on making networking smarter and more resilient!
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -58,7 +56,6 @@ Let’s connect and collaborate on making networking smarter and more resilient!
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 ### Cisco
 - **Cisco Certified Network Professional Security (CCNP Security)**  
